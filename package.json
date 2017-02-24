@@ -1,0 +1,22 @@
+{
+  "name": "augusto",
+  "version": "1.0.0",
+  "description": "Site de portifolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Auugustocesar/augustocesar.github.io.git"
+  },
+  "author": "Augusto Cesar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Auugustocesar/augustocesar.github.io/issues"
+  },
+  "homepage": "https://github.com/Auugustocesar/augustocesar.github.io#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
